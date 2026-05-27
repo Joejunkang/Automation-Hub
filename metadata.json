@@ -1,0 +1,6 @@
+{
+  "name": "NRG Tracking Automation Hub",
+  "description": "Internal Excel-processing automation hub for the NRG tracking team.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
